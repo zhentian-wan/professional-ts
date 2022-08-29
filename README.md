@@ -64,10 +64,6 @@ Changing any files in the `src` folder will result in an incremental rebuild, an
 
 By default, the app is served on http://localhost:3000.
 
-# Legal
+### Convert a JS app to TS
 
-&copy; 2020 LinkedIn, All Rights Reserved
-
-## Licensing
-
-The code in this project is licensed as [BSD-2-Clause](https://opensource.org/licenses/BSD-2-Clause) license, and the written content in the ./notes folder is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[Blog](https://www.cnblogs.com/Answer1215/p/16634314.html)
