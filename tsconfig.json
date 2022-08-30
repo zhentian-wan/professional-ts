@@ -14,7 +14,12 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "stripInternal": true,
-    "forceConsistentCasingInFileNames": true
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "*": ["types/*"]
+    },
+    "traceResolution": false
   },
   "include": ["src"]
 }
